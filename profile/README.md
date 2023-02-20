@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 **Der Sinn dieser Organisation:**
 
