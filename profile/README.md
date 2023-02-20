@@ -3,7 +3,7 @@
 **Wir:**
 
 Wir sind das Robotik-Team _Maec Lego ®MS_ der Rabanus-Maurus-Schule Fulda. 
-Zusammen nehmen wir am Wettbewerb First Lego League (FLL) teil.
+Zusammen nehmen wir am Robotik-Wettbewerb der First Lego League (FLL) teil.
 
 **diese Organisation:**
 
